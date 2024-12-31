@@ -1,0 +1,37 @@
+Time resolution is 1 ps
+Test 1: Sequential write/read of all locations
+
+Test 2: Random address access
+
+Test 3: Performing 50 back-to-back operations
+
+Test 4: Testing read-write conflicts
+
+Test 4: Testing read-write conflicts
+Error at address 4: Expected e9, Got 45
+
+Test 4: Testing read-write conflicts
+
+Test 4: Testing read-write conflicts
+Error at address 3: Expected 6c, Got 08
+
+Test 4: Testing read-write conflicts
+
+Test 4: Testing read-write conflicts
+
+Test 4: Testing read-write conflicts
+Error at address 3: Expected 6c, Got 08
+
+Test 4: Testing read-write conflicts
+Error at address 6: Expected 96, Got 2e
+
+Test 4: Testing read-write conflicts
+Error at address 2: Expected e8, Got c3
+
+Test 4: Testing read-write conflicts
+Error at address 3: Expected 6c, Got 08
+
+Test 5: Walking ones pattern test
+
+Tests completed with 6 errors
+$finish called at time : 21735 ns : File "/home/admin/Desktop/RISCV/TestBench/TB_memctrl.sv" Line 232

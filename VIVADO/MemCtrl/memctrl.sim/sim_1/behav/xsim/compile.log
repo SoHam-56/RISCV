@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/admin/Desktop/RISCV/src/Memory/memctrl.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memctrl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/admin/Desktop/RISCV/src/Memory/xilinx_single_port_ram_read_first.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xilinx_single_port_ram_read_first
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/admin/Desktop/RISCV/TestBench/TB_memctrl.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_memctrl

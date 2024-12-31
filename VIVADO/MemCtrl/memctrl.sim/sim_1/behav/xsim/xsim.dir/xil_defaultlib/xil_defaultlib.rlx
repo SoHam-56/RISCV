@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/admin/Desktop/RISCV/TestBench/TB_memctrl.sv,1735579441,systemVerilog,,,,TB_memctrl,,uvm,,,,,,
+/home/admin/Desktop/RISCV/VIVADO/MemCtrl/memctrl.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+/home/admin/Desktop/RISCV/src/Memory/memctrl.sv,1735569910,systemVerilog,,/home/admin/Desktop/RISCV/src/Memory/xilinx_single_port_ram_read_first.sv,,memctrl,,uvm,,,,,,
+/home/admin/Desktop/RISCV/src/Memory/xilinx_single_port_ram_read_first.sv,1735485962,systemVerilog,,/home/admin/Desktop/RISCV/TestBench/TB_memctrl.sv,,xilinx_single_port_ram_read_first,,uvm,,,,,,
